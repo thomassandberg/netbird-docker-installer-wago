@@ -1,0 +1,1 @@
+# netbird-docker-installer-wago
